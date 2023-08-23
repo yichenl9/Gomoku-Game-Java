@@ -1,0 +1,6 @@
+# A Gobang (4-in-a-row) Game!
+
+Simple but fun!
+
+Two players take turn, click anywhere of the board, and get 4-in-a-row (vertically, horizotally, or diagonally)  of your color to win!
+
